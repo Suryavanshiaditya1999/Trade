@@ -1,3 +1,5 @@
+
+
 <img width="994" height="717" alt="image" src="https://github.com/user-attachments/assets/9aae5fba-7813-4141-8480-b30cdb4a7d12" />
 
 
@@ -17,3 +19,7 @@ Chart ko dekhne k baad kuch key points hain
 - ya ek green candle hogi joki choti hi hogi
 - Red candle bnne k chances bhot kam hain , haan upside liquidity grab kr k jarur ek red candle bn skti hai , par strong red candle bnna kal bhot muskil kal ki trah..
 
+
+## **To kal hum trade ni lenge wait krenge**
+
+- kal kaafi traders fasenge tbhi hmara raasta clear hoga ek badhiya shorting position k liye... green candle ek perfect opportunity hai short open krne ka.
