@@ -23,3 +23,11 @@ Chart ko dekhne k baad kuch key points hain
 ## **To kal hum trade ni lenge wait krenge**
 
 - kal kaafi traders fasenge tbhi hmara raasta clear hoga ek badhiya shorting position k liye... green candle ek perfect opportunity hai short open krne ka.
+
+
+
+
+------------------------------ JOURNAL ----------------------------------
+
+
+- Din vesa hi gya market m jesa socha tha , jyada movement nahi hui , pure din doji candle rhi , market n sharp upside aur downside movement dikhaya , akhri m closing k time nifty50 m thoda jyada selling aai jiski vjah se red doji candle na bnke thodi si better candle bni.
