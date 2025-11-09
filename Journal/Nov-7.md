@@ -13,3 +13,10 @@ Kal market upar jayegi .. most cases m market upar hi jayega .. worst case marke
 **Kal ky krenge**
 
 - kal long hoga .. maximum traders fasenge .. aur aaj bhi fase hain .. kal long position open krenge .. ho skta hai mujhe utha k patak dia jaye ek doji bna k .. par mostly chances hain ki ek completed big creen candle bnegi .. stop loss hum aaj ki red candle k just neeche rakh denge
+
+
+## AFTER MARKET ANALYSIS
+
+<img width="1789" height="855" alt="image" src="https://github.com/user-attachments/assets/b45e35aa-bf30-41f5-afaa-65231d4bbebb" />
+
+- Market gap down k saath open hua , aur fir fib 0.5 par support lia aur upar gya .. jesa humne guess kra tha ki market actually long jayega .. khair exactly vesa nahi hua , market n jarur gap down dia fir bhi overall vo upar gya .. ek intraday ya fir ek quick trade hum le skte the .. keeping the risk factor in check .. kuki hum price ko support par dekh re the to fir ek bounce par hum trade le skte the isme ..
