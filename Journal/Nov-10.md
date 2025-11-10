@@ -8,3 +8,10 @@
 - kal maxium chance hai ki long ho .. green candle bhale hi bhot strong na bne .. par green bn jayegi ..
 
 - shorting ya fir red candle bnne k chances iss vjah se bhot kam hain kuki hum fib 0.5 par hain .. ye zone ek previous resistance zone bhi hai.. yaani iss bar price yaha se support bhi lega .. bhot jyada chances hain ki kal thoda market down jaye.. par fir upar chale jaye..
+
+
+## AFTER MARKET ANALYSIS
+
+<img width="1916" height="912" alt="image" src="https://github.com/user-attachments/assets/d4e63169-b985-4484-82f8-c8951b0d78fe" />
+
+-> Went exactly as I thought , market up gyi .. aur fir final hours m neeche aai .. aur final day k end par ek green candle bni , jiski upside wick badi thi.. as i thought market behave kregi aaj vesa sa hua .. 
