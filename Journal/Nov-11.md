@@ -37,3 +37,8 @@ Today was a great Learning Day
 
 - jab price aaj fib zone k pass tha to vese m uss waqt buying krne vala the kuki mujhe lga tha ki aur neeche nahi jayega price .. aaj m downside aur upside ki direction dono ko shi time par analyze kr paya .. downside ki ek din pehle kr paya tha aur upside ki uss waqt price ka movement dekh k kr paya.
 
+AAJ k din ki final candle ..
+
+<img width="1115" height="644" alt="image" src="https://github.com/user-attachments/assets/075da7ff-1da2-467d-8a73-5b775330fe45" />
+
+
